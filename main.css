@@ -11,3 +11,11 @@
 	margin-top:60px;
 }
 	
+	
+	
+	
+.centerImg { 
+    width: 50%; 
+    height: 50%; 
+    object-fit: contain; 
+} 

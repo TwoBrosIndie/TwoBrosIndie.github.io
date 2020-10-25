@@ -58,10 +58,12 @@ img {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 1vw;
   opacity:0.9;
   filter: brightness(100%);
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  width:70%;
+  height:50%;
 }
 
 
@@ -218,6 +220,12 @@ img {
 }
 
 
+.footerCont {
+	width: auto;
+	max-width: 600px;
+	min-width: 400px;
+}
+
 
 
 .footerButton {
@@ -232,5 +240,7 @@ img {
   font-size: 16px;
   opacity:1;
   filter: brightness(100%);
+  max-width: 400px;
+  overflow: hidden; 
 }
 
