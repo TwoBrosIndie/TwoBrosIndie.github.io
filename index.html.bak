@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+
+      crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TwoBros Indie</title>
+  </head>
+  <body style="   background-color:#1E222B;">
+    <center> <img src="images/TwoBrosHeader.png" alt="Two Bros Header"
+
+        height="480" width="720">
+      <h1 style="font-family:Lucida Sans Unicode; color:white;">We're a team of
+        two game developer brothers.</h1>
+      <h1 style="font-family:Lucida Sans Unicode; color:white;">Check out our
+        games:</h1>
+      <div class="box" style="margin: 40px;"> <iframe src="https://store.steampowered.com/widget/1293480/"
+
+          height="190" frameborder="0" width="646"> </iframe> </div>
+      <div class="box" style="margin: 40px;"> <iframe src="https://store.steampowered.com/widget/1135860/"
+
+          height="190" frameborder="0" width="646"></iframe> </div>
+      <a href="#https://twobrosindie.github.io/RedFrontier2/index.html" class="btn btn-dark" role="button">Link Button</a>
+
+      
+    </center>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+
+crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+
+integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+
+crossorigin="anonymous"></script>
+  </body>
+</html>
