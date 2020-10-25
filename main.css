@@ -19,3 +19,16 @@
     height: 50%; 
     object-fit: contain; 
 } 
+
+.underDevAlert {
+  font-size: 1vw;
+  opacity:1;
+  width:100%;
+  height:100%;
+}
+
+
+.col-centered{
+float: none;
+margin: 0 auto;
+}
